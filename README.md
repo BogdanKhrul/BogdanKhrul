@@ -7,3 +7,8 @@ I am a Full-Stack developer with a focus on Back-End. I enjoy developing powerfu
 ___
 
 ### Tech Stack:
+
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** React
+- **Tools:** Git
+- **Databases:** MongoDB
