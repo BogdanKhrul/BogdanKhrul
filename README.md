@@ -19,10 +19,4 @@ clockwork!
 
 ---
 
-### Socials:
-
-<a href="https://www.linkedin.com" target="blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="40" alt="linkedin-logo" />
-</a>
-
 
