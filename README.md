@@ -8,15 +8,6 @@ technologies and immediately applying them in practice. My strengths are respons
 to find elegant solutions to complex problems. I strive to create productive and secure projects that work like
 clockwork!
 
----
 
-### Tech Stack:
-
--   **Languages:** HTML, CSS, SASS, JavaScript, TypeScript, NodeJS 
--   **Frameworks:** React
--   **Databases:** MongoDB
--   **Tools:** Git, Vite, Gulp, WebPack ...
-
----
 
 
